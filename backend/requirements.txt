@@ -2,4 +2,4 @@ Django==5.2.7
 django-mongodb-backend==5.2.4
 djangorestframework==3.18.3
 python-dotenv==1.2.4
-httpx>=0.28,<1
+httpx>=0.28.1,<1
